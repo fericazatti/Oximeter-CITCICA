@@ -1,0 +1,10 @@
+WIFI: una vez encendido intenta conectarse mediante WiFi.
+la red debe llamarse "oximetro", la contraseña debe ser "12345678"
+En caso de no conectarse inicializa las horas, minutos y segundos en 00. 
+
+Registro de datos: debe mantenerse presionada la tecla A durante 3 segundos para dar inicio al registro de datos.
+Para finalizar el registro el procedimietno es el mismo.
+
+
+
+
